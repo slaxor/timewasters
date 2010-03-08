@@ -5,4 +5,8 @@ This is an extension for Fixnum, that returns an Array with all numbers Collatz 
 that it could be of use for anyone. But you can go hunting for a number that doesn´t
 end with the wondrous triplet [...,4,2,1].
 
+make me a sandwich.
+===================
+Nerd humour as found at [xkcd](http://xkcd.com/149/)
+
 
