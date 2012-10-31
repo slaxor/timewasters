@@ -1,0 +1,90 @@
+# Logfile created on 2012-10-27 12:20:34 +0200 by logger.rb/31641
+I, [2012-10-27T12:20:38.773697 #8728]  INFO -- : #<Rover:0x000000013d7dd0> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-27T12:21:59.045337 #8799]  INFO -- : #<Rover:0x0000000121f790> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-27T12:23:01.170320 #8869]  INFO -- : #<Rover:0x00000000e14808> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-27T12:23:09.753640 #8869]  WARN -- : Warning: Asimovs Laws forbid me to commit suicide
+I, [2012-10-27T12:23:34.588813 #8921]  INFO -- : #<Rover:0x00000001b4f450> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-27T12:23:48.446787 #8921]  WARN -- : Warning: Asimovs Laws forbid me to commit suicide
+W, [2012-10-27T12:24:00.341482 #8921]  WARN -- : Warning: Asimovs Laws forbid me to commit suicide
+W, [2012-10-27T12:24:05.541897 #8921]  WARN -- : Warning: Asimovs Laws forbid me to commit suicide
+W, [2012-10-27T12:24:39.736538 #8921]  WARN -- : Warning: Asimovs Laws forbid me to commit suicide
+W, [2012-10-27T12:24:47.394258 #8921]  WARN -- : Warning: Asimovs Laws forbid me to commit suicide
+I, [2012-10-27T12:47:21.593103 #9998]  INFO -- : #<Rover:0x000000017eb160> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-27T12:48:36.973692 #10067]  INFO -- : #<Rover:0x000000013a6ed8> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-27T12:49:07.981009 #10124]  INFO -- : #<Rover:0x00000001dab578> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-27T12:54:28.093700 #10302]  INFO -- : #<Rover:0x00000001618ae0> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-27T12:54:37.368816 #10302]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T12:54:44.568718 #10302]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T12:54:49.777113 #10302]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-27T13:05:42.990745 #10623]  INFO -- : #<Rover:0x00000003119b78> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-27T13:06:26.297836 #10623]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T13:06:40.181208 #10623]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T13:06:49.741134 #10623]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T13:06:51.248143 #10623]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T13:07:01.215368 #10623]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T13:07:28.651136 #10623]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T13:08:39.635764 #10623]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-27T13:13:33.653469 #11023]  INFO -- : #<Rover:0x00000001460b58> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-27T13:13:44.472018 #11023]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T13:15:14.930868 #11023]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-27T14:46:58.238961 #12831]  INFO -- : #<Rover:0x000000023f0b18> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-27T14:47:24.154293 #12831]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-27T14:50:10.076740 #12959]  INFO -- : #<Rover:0x00000001f4cb70> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-27T14:51:01.755846 #13051]  INFO -- : #<Rover:0x000000022e9968> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-27T14:52:31.324967 #13144]  INFO -- : #<Rover:0x00000002208d78> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-27T14:59:27.307996 #13526]  INFO -- : #<Rover:0x00000003134bd0> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-27T15:00:22.899139 #13598]  INFO -- : #<Rover:0x0000000314fca0> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-27T15:00:33.044649 #13598]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-27T15:09:46.866986 #13811]  INFO -- : #<Rover:0x000000025589d8> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-27T15:11:35.002290 #13811]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T15:11:50.024181 #13811]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-27T15:14:36.506559 #14005]  INFO -- : #<Rover:0x00000002befa30> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-27T15:14:57.200807 #14005]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-27T15:16:21.892732 #14005]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-29T23:56:37.996855 #23234]  INFO -- : #<Rover:0x00000001965e78> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-29T23:58:47.490048 #23340]  INFO -- : #<Rover:0x00000002212670> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-30T00:01:30.421800 #23540]  INFO -- : #<Rover:0x000000023fe2b8> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-30T00:02:02.113930 #23540]  INFO -- : #<Rover:0x000000023fc2b0> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-30T00:02:13.219730 #23540]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-30T00:02:13.219843 #23540]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-30T00:06:01.129544 #23736]  INFO -- : #<Rover:0x00000001a6b110> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-30T00:10:32.931934 #23853]  INFO -- : #<Rover:0x000000026cc260> has already landed
+I, [2012-10-30T00:14:00.670614 #24103]  INFO -- : #<Rover:0x00000001f0beb8> has landed safely at position {:x=>"4", :y=>"3", :heading=>"E"}
+I, [2012-10-30T00:16:47.797209 #24213]  INFO -- : #<Rover:0x0000000293de90> has landed safely at position {:x=>4, :y=>3, :heading=>"W"}
+I, [2012-10-30T00:19:55.608959 #24301]  INFO -- : #<Rover:0x0000000297b330> has landed safely at position {:x=>3, :y=>3, :heading=>"N"}
+I, [2012-10-30T00:20:07.295220 #24361]  INFO -- : #<Rover:0x00000002e69ae0> has landed safely at position {:x=>3, :y=>3, :heading=>"W"}
+I, [2012-10-30T00:21:34.108185 #24429]  INFO -- : #<Rover:0x000000014c0120> has landed safely at position {:x=>3, :y=>3, :heading=>:w}
+F, [2012-10-30T00:22:38.271582 #24429] FATAL -- : #<Rover:0x000000014e6550> has crashed at position {:x=>76, :y=>23, :heading=>:""}
+F, [2012-10-30T00:26:29.497698 #24769] FATAL -- : Aaaaaaaaaaa,  falling... (#<Rover:0x0000000302d250> has crashed at position {:x=>4, :y=>4, :heading=>:""})
+I, [2012-10-30T00:33:07.664452 #25200]  INFO -- : #<Rover:0x000000021d9c80> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+F, [2012-10-30T00:33:17.222302 #25230] FATAL -- : Aaaaaaaaaaa,  falling... (#<Rover:0x0000000182d7e0> has crashed at position {:x=>4, :y=>4, :heading=>:""})
+F, [2012-10-30T00:35:38.212198 #25372] FATAL -- : Aaaaaaaaaaa,  falling... (#<Rover:0x00000001adfc18> has crashed at position {:x=>4, :y=>4, :heading=>:""})
+F, [2012-10-30T00:37:14.812132 #25537] FATAL -- : Aaaaaaaaaaa,  falling... (#<Rover:0x000000028b3830> has crashed at position {:x=>4, :y=>4, :heading=>:""})
+F, [2012-10-30T00:37:45.452173 #25593] FATAL -- : Aaaaaaaaaaa,  falling... (#<Rover:0x000000020e3740> has crashed at position {:x=>4, :y=>4, :heading=>:""})
+I, [2012-10-30T00:37:49.620040 #25593]  INFO -- : #<Rover:0x000000020e2868> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-30T00:38:05.225994 #25593]  INFO -- : #<Rover:0x000000020eb418> has landed safely at position {:x=>3, :y=>3, :heading=>:""}
+F, [2012-10-30T00:39:24.271429 #25675] FATAL -- : Aaaaaaaaaaa,  falling... (#<Rover:0x00000001abb480> has crashed at position {:x=>33, :y=>33, :heading=>:""})
+I, [2012-10-30T00:39:27.198471 #25675]  INFO -- : #<Rover:0x00000001aba5d0> has landed safely at position {:x=>3, :y=>3, :heading=>:""}
+I, [2012-10-30T00:45:19.174829 #25926]  INFO -- : #<Rover:0x00000003141808> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-30T00:45:53.815219 #25926]  INFO -- : #<Rover:0x000000031403b8> has landed safely at position {:x=>2, :y=>2, :heading=>:n}
+I, [2012-10-30T19:19:21.018327 #23396]  INFO -- : #<Rover:0x00000002830250> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-30T19:19:21.018796 #23396]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-30T19:19:21.018858 #23396]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-30T19:19:21.018972 #23396]  INFO -- : #<Rover:0x00000002834fa8> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-30T19:19:46.746017 #23396]  INFO -- : #<Rover:0x0000000283d658> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-30T19:20:18.210191 #23638]  INFO -- : #<Rover:0x00000002a97b10> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-30T19:20:32.961713 #23638]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-30T19:20:37.331415 #23638]  INFO -- : #<Rover:0x00000002a9eb68> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+W, [2012-10-30T19:20:41.122149 #23638]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+W, [2012-10-30T19:20:41.122400 #23638]  WARN -- : Asimovs 3rd law forbids me to commit suicide
+I, [2012-10-30T19:21:01.618348 #23676]  INFO -- : #<Rover:0x00000003086e90> has landed safely at position {:x=>1, :y=>2, :heading=>:n}
+I, [2012-10-30T19:21:23.154812 #23676]  INFO -- : #<Rover:0x0000000308d240> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-30T19:21:29.130082 #23676]  INFO -- : #<Rover:0x0000000308c070> has landed safely at position {:x=>3, :y=>3, :heading=>:e}
+I, [2012-10-30T19:24:47.405441 #23857]  INFO -- : #<Rover:0x00000001fcfd40> has landed safely at position {:x=>1, :y=>2, :heading=>:n}
+I, [2012-10-30T19:25:55.873321 #23924]  INFO -- : #<Rover:0x00000001ec2fd8> has landed safely at position {:x=>1, :y=>2, :heading=>:n}
+I, [2012-10-30T19:26:10.615030 #23924]  INFO -- : #<Rover:0x00000001ec9338> has landed safely at position {:x=>3, :y=>3, :heading=>:e}
+I, [2012-10-31T00:52:37.421491 #9981]  INFO -- : #<Rover:0x000000023617b0> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-31T00:52:40.032459 #9981]  INFO -- : #<Rover:0x00000002360428> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-31T00:52:41.060109 #9981]  INFO -- : #<Rover:0x0000000236a018> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-31T01:07:58.888389 #10834]  INFO -- : #<Rover:0x00000002d0a690> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
+I, [2012-10-31T01:30:53.938949 #13081]  INFO -- : #<Rover:0x000000013362f0> has landed safely at position {:x=>0, :y=>0, :heading=>:n}
