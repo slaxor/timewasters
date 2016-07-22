@@ -1,0 +1,880 @@
+HTTP/1.1 200 OK
+Expires: Thu, 21 Jul 2016 14:52:18 GMT
+Date: Thu, 21 Jul 2016 14:52:18 GMT
+Cache-Control: private, max-age=0, must-revalidate, no-transform
+ETag: "C79asUrpl716RzXEYlKUQUuJjTE/6JLL2es5wK0mBnd5gZDmCscPEOE"
+Vary: Origin
+Vary: X-Origin
+Content-Type: application/json; charset=UTF-8
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Content-Length: 40323
+Server: GSE
+Alternate-Protocol: 443:quic
+Alt-Svc: quic=":443"; ma=2592000; v="36,35,34,33,32,31,30,29,28,27,26,25"
+
+{
+ "kind": "books#volumes",
+ "totalItems": 303,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "HcDsv358DR4C",
+   "etag": "p0InL+PbSYQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HcDsv358DR4C",
+   "volumeInfo": {
+    "title": "DNS und BIND",
+    "authors": [
+     "Paul Albitz",
+     "Cricket Liu"
+    ],
+    "publisher": "O'Reilly Germany",
+    "publishedDate": "2002",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3897212900"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783897212909"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 645,
+    "printType": "BOOK",
+    "categories": [
+     "BIND server"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=HcDsv358DR4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=HcDsv358DR4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=HcDsv358DR4C&pg=PA299&dq=foo+bar+baz&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=HcDsv358DR4C&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/DNS_und_BIND.html?hl=&id=HcDsv358DR4C"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=HcDsv358DR4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(Um genau zu sein, rotiert der Nameserver jeden Record-Typ, solange ein \u003cbr\u003e\nangegebener Domain-Name mehr als einen davon besitzt.6) Die Records \u003cb\u003efoo\u003c/b\u003e.\u003cbr\u003e\n\u003cb\u003ebar\u003c/b\u003e.\u003cb\u003ebaz\u003c/b\u003e. 60 IN A 192.168.1.1 \u003cb\u003efoo\u003c/b\u003e.\u003cb\u003ebar\u003c/b\u003e.\u003cb\u003ebaz\u003c/b\u003e. 60 IN A 192.168.1.2 \u003cb\u003efoo\u003c/b\u003e.\u003cb\u003ebar\u003c/b\u003e.\u003cb\u003ebaz\u003c/b\u003e. 60 IN \u003cbr\u003e\nA&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XZEuBAAAQBAJ",
+   "etag": "Mkw3z07QEbc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XZEuBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Software-Qualität",
+    "authors": [
+     "Dirk W. Hoffmann"
+    ],
+    "publisher": "Springer-Verlag",
+    "publishedDate": "2013-01-09",
+    "description": "Computerabstürze, Rückrufaktionen, Sicherheitslecks: Das Phänomen Software- Fehler hat sich zum festen Bestandteil unseres täglichen Lebens entwickelt. Mit dem unaufhaltsamen Vordringen der Computertechnik in immer mehr sicherheitskritische Bereiche wird die Software-Qualitätssicherung zu einer stetig wichtiger werdenden Disziplin der Informationstechnik. Aber warum ist die Qualität von Software heute so schlecht? Und viel wichtiger noch: Stehen wir der Misere hilflos gegenüber? Dieses Buch führt umfassend und praxisnah in das Gebiet der Software- Qualitätssicherung ein und gibt eine Antwort auf die oben gestellten Fragen. Zu Beginn werden die typischen Fehlerquellen der Programmentwicklung erörtert und anschließend die verschiedenen Methoden und Techniken behandelt, die uns zur Verbesserung der Qualität zur Verfügung stehen. Behandelt werden die zentralen Themenkomplexe aus den Gebieten der konstruktiven und analytischen Qualitätssicherung, der Software-Infrastruktur und der Managementprozesse. Die 2. Auflage wurde durchgehend aktualisiert und korrigiert.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642357008"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642357008"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 568,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=XZEuBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=XZEuBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=XZEuBAAAQBAJ&pg=PA458&dq=foo+bar+baz&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=XZEuBAAAQBAJ&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/Software_Qualit%C3%A4t.html?hl=&id=XZEuBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 34.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 34.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "http://books.google.de/books?id=XZEuBAAAQBAJ&dq=foo+bar+baz&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.499E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Software_Qualit%C3%A4t-sample-pdf.acsm?id=XZEuBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=XZEuBAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Abhängigkeiten mit jüngerem Datum als das Ziel bar.c 1foobar.o: foo.c bar.c I \u003cbr\u003e\nModifizierende Makros (Auswahl) Makro ... Erstes Element einer Liste ${firstword \u003cbr\u003e\n\u003cb\u003efoo bar baz\u003c/b\u003e } = &quot;foo&quot; Abb. 8.34 zeigt, wie das oben eingeführte Makefile um ein&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EtdF4NMi_NEC",
+   "etag": "h1I02ZdC7oY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EtdF4NMi_NEC",
+   "volumeInfo": {
+    "title": "Writing Idiomatic Python 3.3",
+    "authors": [
+     "Jeff Knupp"
+    ],
+    "publisher": "Jeff Knupp",
+    "publishedDate": "2013-02-01",
+    "description": "The \"Writing Idiomatic Python\" book is finally here! Chock full of code samples, you'll learn the \"Pythonic\" way to accomplish common tasks. Each idiom comes with a detailed description, example code showing the \"wrong\" way to do it, and code for the idiomatic, \"Pythonic\" alternative. *This version of the book is for Python 3.3+. There is also a Python 2.7.3+ version available.* \"Writing Idiomatic Python\" contains the most common and important Python idioms in a format that maximizes identification and understanding. Each idiom is presented as a recommendation to write some commonly used piece of code. It is followed by an explanation of why the idiom is important. It also contains two code samples: the \"Harmful\" way to write it and the \"Idiomatic\" way. * The \"Harmful\" way helps you identify the idiom in your own code. * The \"Idiomatic\" way shows you how to easily translate that code into idiomatic Python. This book is perfect for you: * If you're coming to Python from another programming language * If you're learning Python as a first programming language * If you're looking to increase the readability, maintainability, and correctness of your Python code What is \"Idiomatic\" Python? Every programming language has its own idioms. Programming language idioms are nothing more than the generally accepted way of writing a certain piece of code. Consistently writing idiomatic code has a number of important benefits: * Others can read and understand your code easily * Others can maintain and enhance your code with minimal effort * Your code will contain fewer bugs * Your code will teach others to write correct code without any effort on your part",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 88,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.3.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=EtdF4NMi_NEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=EtdF4NMi_NEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.de/books?id=EtdF4NMi_NEC&pg=PA16&dq=foo+bar+baz&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=EtdF4NMi_NEC&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/Writing_Idiomatic_Python_3_3.html?hl=&id=EtdF4NMi_NEC"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Writing_Idiomatic_Python_3_3-sample-epub.acsm?id=EtdF4NMi_NEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Writing_Idiomatic_Python_3_3-sample-pdf.acsm?id=EtdF4NMi_NEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=EtdF4NMi_NEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "reversed: return make_api_call_v2(\u003cb\u003efoo\u003c/b\u003e, \u003cb\u003ebar\u003c/b\u003e, \u003cb\u003ebaz\u003c/b\u003e, qux) return None \u003cbr\u003e\nmake_api_call_v4( \u003cb\u003efoo\u003c/b\u003e, \u003cb\u003ebar\u003c/b\u003e, \u003cb\u003ebaz\u003c/b\u003e, qux, foo_polarity, baz_coefficient): return \u003cbr\u003e\nmake_api_call_v3( \u003cb\u003efoo\u003c/b\u003e, \u003cb\u003ebar\u003c/b\u003e, \u003cb\u003ebaz\u003c/b\u003e, qux, foo_polarity) * baz_coefficient \u003cbr\u003e\nmake_api_call_v5( \u003cb\u003efoo\u003c/b\u003e, \u003cb\u003ebar\u003c/b\u003e, \u003cb\u003ebaz\u003c/b\u003e&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z793CwAAQBAJ",
+   "etag": "s85a1l+CxLE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z793CwAAQBAJ",
+   "volumeInfo": {
+    "title": "Einführung in LaTeX",
+    "subtitle": "unter Berücksichtigung von pdfLaTeX, XLaTeX und LuaLaTeX",
+    "authors": [
+     "Voß, Herbert"
+    ],
+    "publisher": "Lehmanns Media",
+    "publishedDate": "2016-01-28",
+    "description": "Mit LaTeX lassen sich Dokumente in höchster Qualität erstellen, die den Vergleich mit professionell hergestellten Dokumenten nicht scheuen müssen. Von einfachen Briefen bis hin zu dem, was Sie gerade in der Hand halten, ist die Anwendung von LaTeX eine große Hilfe. Die angebliche Hürde, die Einsteiger bei der ersten Benutzung von LaTeX empfingen, wird mit diesem Buch beseitigt. Man findet ebenso eine Anleitung zur Auswahl, Installation und verwendung gut geeigneter Editoren unter den Betriebssystem Windows, Linux und Mac OS X, wie Installationshinweise für TeXLive oder MiKTeX. Behandelt werden die Programme pdfLaTeX, XLaTeX, LuaLaTeX und dvips. Dieses Buch, welches sich sowohl an Naturwissenschaftler als auch Geisteswissenschaftler wendet, zeigt an vielen Beispielen, wie man seine Dokumente anspruchsvoll gestalten kann.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783865418234"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3865418236"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 960,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=z793CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=z793CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "de",
+    "previewLink": "http://books.google.de/books?id=z793CwAAQBAJ&pg=PA107&dq=foo+bar+baz&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=z793CwAAQBAJ&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/Einf%C3%BChrung_in_LaTeX.html?hl=&id=z793CwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 19.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "http://books.google.de/books?id=z793CwAAQBAJ&dq=foo+bar+baz&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.999E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Einf%C3%BChrung_in_LaTeX-sample-pdf.acsm?id=z793CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=z793CwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A B C . \u003cb\u003efoo bar baz\u003c/b\u003e 1. A\\hfill B\\hfill C \\par 2.\\hspace{2cm}foo\\hspace{2cm}bar% . \u003cbr\u003e\n\u003cb\u003efoo bar baz\u003c/b\u003e . foo bar \\hspace{2cm}baz \\par 3.\\hspace*{2cm}foo\\hspace*{2cm}bar\u003cbr\u003e\n% Rechts \\hspace*{2cm}baz \\par 4.\\hspace{1cm}foo\\hfill bar\\hspace{1cm}\\par&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WUM1CAAAQBAJ",
+   "etag": "6jLu3nd1q+o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WUM1CAAAQBAJ",
+   "volumeInfo": {
+    "title": "Professional AngularJS",
+    "authors": [
+     "Valeri Karpov",
+     "Diego Netto"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2015-04-17",
+    "description": "A comprehensive guide to AngularJS, Google's open-source client-side framework for app development. Most of the existing guides to AngularJS struggle to provide simple and understandable explanations for more advanced concepts. As a result, some developers who understand all the basic concepts of AngularJS struggle when it comes to building more complex real-world applications. Professional AngularJS provides a thorough understanding of AngularJS, covering everything from basic concepts, such as directives and data binding, to more advanced concepts like transclusion, build systems, and automated integration testing. In addition to explaining the features of AngularJS, this book distills real-world experience on how these features fit together to enable teams to work together more effectively in building extraordinary apps. Offers a more thorough and comprehensive approach to AngularJS Includes pointers to other advanced topics Lets you build a simple application from scratch, explaining basic building blocks along the way for quick hands-on learning",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781118832080"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1118832086"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 408,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.7.5.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=WUM1CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=WUM1CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.de/books?id=WUM1CAAAQBAJ&pg=PA197&dq=foo+bar+baz&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=WUM1CAAAQBAJ&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/Professional_AngularJS.html?hl=&id=WUM1CAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 30.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "http://books.google.de/books?id=WUM1CAAAQBAJ&dq=foo+bar+baz&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.099E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.099E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Professional_AngularJS-sample-epub.acsm?id=WUM1CAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Professional_AngularJS-sample-pdf.acsm?id=WUM1CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=WUM1CAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In other words, the $location service interacts with a pseudo‐URL defined in the \u003cbr\u003e\nURL&#39;s hash portion. For example, assume that your user is on the URL http://\u003cbr\u003e\ngoogle.com/\u003cb\u003efoo\u003c/b\u003e?\u003cb\u003ebar\u003c/b\u003e=\u003cb\u003ebaz\u003c/b\u003e#qux. If you were to execute the following functions \u003cbr\u003e\nwhen&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "dVJvr8PtCMUC",
+   "etag": "FkPoj3yLyV4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/dVJvr8PtCMUC",
+   "volumeInfo": {
+    "title": "Practical Common Lisp",
+    "authors": [
+     "Peter Seibel"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2006-11-01",
+    "description": "* Treats LISP as a language for commercial applications, not a language for academic AI concerns. This could be considered to be a secondary text for the Lisp course that most schools teach . This would appeal to students who sat through a LISP course in college without quite getting it – so a \"nostalgia\" approach, as in \"wow-lisp can be practical...\" * Discusses the Lisp programming model and environment. Contains an introduction to the language and gives a thorough overview of all of Common Lisp’s main features. * Designed for experienced programmers no matter what languages they may be coming from and written for a modern audience—programmers who are familiar with languages like Java, Python, and Perl. * Includes several examples of working code that actually does something useful like Web programming and database access.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430200178"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1430200170"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 501,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.5.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=dVJvr8PtCMUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=dVJvr8PtCMUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.de/books?id=dVJvr8PtCMUC&pg=PA170&dq=foo+bar+baz&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=dVJvr8PtCMUC&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/Practical_Common_Lisp.html?hl=&id=dVJvr8PtCMUC"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 63.06,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 44.14,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "http://books.google.de/books?id=dVJvr8PtCMUC&dq=foo+bar+baz&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.306E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.414E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Practical_Common_Lisp-sample-epub.acsm?id=dVJvr8PtCMUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Practical_Common_Lisp-sample-pdf.acsm?id=dVJvr8PtCMUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=dVJvr8PtCMUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(pathname-directory (pathname &quot;/\u003cb\u003efoo\u003c/b\u003e/\u003cb\u003ebar\u003c/b\u003e/\u003cb\u003ebaz\u003c/b\u003e.txt&quot;)) (:ABSOLUTE &quot;foo&quot; &quot;bar&quot;) (\u003cbr\u003e\npathname-name (pathname &quot;/\u003cb\u003efoo\u003c/b\u003e/\u003cb\u003ebar\u003c/b\u003e/\u003cb\u003ebaz\u003c/b\u003e.txt&quot;)) &quot;baz&quot; ... (pathname &quot;/\u003cb\u003efoo\u003c/b\u003e/\u003cb\u003ebar\u003c/b\u003e/\u003cb\u003ebaz\u003c/b\u003e.\u003cbr\u003e\ntxt&quot;)) &quot;txt&quot; Three other functions—PATHNAME-HOST, PATHNAME-DEVICE, and&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PgK1GbyiiDUC",
+   "etag": "UwOhATU424w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PgK1GbyiiDUC",
+   "volumeInfo": {
+    "title": "Dojo: The Definitive Guide",
+    "subtitle": "The Definitive Guide",
+    "authors": [
+     "Matthew A. Russell"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2008-06-17",
+    "description": "Of all the Ajax-specific frameworks that have popped up in recent years, one clearly stands out as the industrial strength solution. Dojo is not just another JavaScript toolkit—it's the JavaScript toolkit—and Dojo: The Definitive Guide demonstrates how to tame Dojo's extensive library of utilities so that you can build rich and responsive web applications like never before. Dojo founder Alex Russell gives a foreword that explains the \"why\" of Dojo and of this book. Dojo provides an end-to-end solution for development in the browser, including everything from the core JavaScript library and turnkey widgets to build tools and a testing framework. Its vibrant open source community keeps adding to Dojo's arsenal, and this book provides an ideal companion to Dojo's official documentation. Dojo: the Definitive Guide gives you the most thorough overview of this toolkit available, showing you everything from how to create complex layouts and form controls closely resembling those found in the most advanced desktop applications with stock widgets, to advanced JavaScript idioms to AJAX and advanced communication transports. With this definitive reference you get: Get a concise introduction to Dojo that's good for all 1.x versions Well-explained examples, with scores of tested code samples, that let you see Dojo in action A comprehensive reference to Dojo's standard JavaScript library (including fundamental utilities in Base, Dojo's tiny but powerful kernel) that you'll wonder how you ever lived without An extensive look at additional Core features, such as animations, drag-and-drop, back-button handling, animations like wipe and slide, and more Exhaustive coverage of out-of-the-box Dijits (Dojo widgets) as well as definitive coverage on how to create your own, either from scratch or building on existing ones An itemized inventory of DojoX subprojects, the build tools, and the DOH, Dojo's unit-testing framework that you can use with Dojo—or anywhere else If you're a DHTML-toting web developer, you need to read this book—whether you're a one-person operation or part of an organization employing scores of developers. Dojo packs the standard JavaScript library you've always wanted, and Dojo: The Definitive Guide helps you transform your ideas into working applications quickly by leveraging design concepts you already know.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596551728"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "059655172X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 488,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=PgK1GbyiiDUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=PgK1GbyiiDUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.de/books?id=PgK1GbyiiDUC&pg=PA41&dq=foo+bar+baz&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=PgK1GbyiiDUC&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/Dojo_The_Definitive_Guide.html?hl=&id=PgK1GbyiiDUC"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.34,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 21.24,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "http://books.google.de/books?id=PgK1GbyiiDUC&dq=foo+bar+baz&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.034E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.124E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=PgK1GbyiiDUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "setObject var foo = {bar : {baz : {qux : 1}}}; //nest some objects the &#39;long&#39; way \u003cbr\u003e\nconsole.log(\u003cb\u003efoo\u003c/b\u003e.\u003cb\u003ebar\u003c/b\u003e.\u003cb\u003ebaz\u003c/b\u003e.qux); //displays 1 //Or you could opt to do it in one crisp \u003cbr\u003e\nstatement without matching all of the braces... dojo.setObject(&quot;\u003cb\u003efoo\u003c/b\u003e.\u003cb\u003ebar\u003c/b\u003e.\u003cb\u003ebaz\u003c/b\u003e.qux&quot;, 1)\u003cbr\u003e\n;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CIYUAwAAQBAJ",
+   "etag": "f+/lGGmcZBM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CIYUAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Common LISP",
+    "subtitle": "A Gentle Introduction to Symbolic Computation",
+    "authors": [
+     "David S. Touretzky"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "2014-02-20",
+    "description": "This highly accessible introduction to Lisp is suitable both for novices approaching their first programming language and experienced programmers interested in exploring a key tool for artificial intelligence research. The text offers clear, reader-friendly explanations of such essential concepts as cons cell structures, evaluation rules, programs as data, and recursive and applicative programming styles. The treatment incorporates several innovative instructional devices, such as the use of function boxes in the first two chapters to visually distinguish functions from data, use of evaltrace notation in later chapters to illustrate the operation of evaluation rules, and \"Dragon stories\" to explain recursion. The book contains nearly 400 diagrams and illustrations, and 77 pages of answers to exercises. Advanced topics and \"toolkit\" sections, and a variety of complete programs, extend readers' programming power.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486791708"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "048679170X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 600,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.3.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=CIYUAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=CIYUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.de/books?id=CIYUAwAAQBAJ&pg=PA89&dq=foo+bar+baz&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=CIYUAwAAQBAJ&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/Common_LISP.html?hl=&id=CIYUAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.79,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 25.75,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "http://books.google.de/books?id=CIYUAwAAQBAJ&dq=foo+bar+baz&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.679E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.575E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Common_LISP-sample-epub.acsm?id=CIYUAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.de/books/download/Common_LISP-sample-pdf.acsm?id=CIYUAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=CIYUAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... quote must go outside the list to prevent the list from being evaluated. If we put \u003cbr\u003e\nthe quote inside the list, EVAL will try to evaluate the list and an error will result: ( &#39; \u003cbr\u003e\n\u003cb\u003efoo\u003c/b\u003e &#39; \u003cb\u003ebar\u003c/b\u003e &#39; \u003cb\u003ebaz\u003c/b\u003e) 2 Error! &#39;FOO undefined function. &#39; (\u003cb\u003efoo bar baz\u003c/b\u003e) 2 (\u003cb\u003efoo bar baz\u003c/b\u003e)&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YMJvCAAAQBAJ",
+   "etag": "W6axuRuvdNI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YMJvCAAAQBAJ",
+   "volumeInfo": {
+    "title": "The GNU Make Book",
+    "subtitle": "",
+    "authors": [
+     "John Graham-Cumming"
+    ],
+    "publisher": "No Starch Press",
+    "publishedDate": "2015-04-16",
+    "description": "\"Covers GNU Make basics through advanced topics, including: user-defined functions, macros, and path handling; creating makefile assertions and debugging makefiles; parallelization; automatic dependency generation, rebuilding targets, and non-recursive Make; and using the GNU Make Standard Library\"--",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781593276492"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1593276494"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=YMJvCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=YMJvCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.de/books?id=YMJvCAAAQBAJ&pg=PA113&dq=foo+bar+baz&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=YMJvCAAAQBAJ&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/The_GNU_Make_Book.html?hl=&id=YMJvCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 24.31,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 17.02,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "http://books.google.de/books?id=YMJvCAAAQBAJ&dq=foo+bar+baz&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.431E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.702E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=YMJvCAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "If the definition of \u003cb\u003eFOOBAR\u003c/b\u003e is changed to use a := instead of =, running the \u003cbr\u003e\nmakefile produces a very different result: ... For example, this: \u003cb\u003eFOO\u003c/b\u003e=\u003cb\u003efoo BAR\u003c/b\u003e=\u003cb\u003ebar\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eBAZ\u003c/b\u003e=\u003cb\u003ebaz FOOBAR\u003c/b\u003e := $(\u003cb\u003eFOO\u003c/b\u003e) $(\u003cb\u003eBAR\u003c/b\u003e) \u003cb\u003eFOOBAR\u003c/b\u003e += $(\u003cb\u003eBAZ\u003c/b\u003e) \u003cb\u003eBAZ\u003c/b\u003e=bazzy results in&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u0GbAgAAQBAJ",
+   "etag": "D7Pa0AOFPzQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u0GbAgAAQBAJ",
+   "volumeInfo": {
+    "title": "DNS and BIND",
+    "authors": [
+     "Cricket Liu",
+     "Paul Albitz"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2006-05-26",
+    "description": "A guide to the Internet's Domain Name System and the Berkeley Internet Name Domain software covers domain and server setup, troubleshooting and configuration, load sharing, subdivision, and server security.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596100575"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0596100574"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 616,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.de/books/content?id=u0GbAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.de/books/content?id=u0GbAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.de/books?id=u0GbAgAAQBAJ&pg=PT272&dq=foo+bar+baz&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.de/books?id=u0GbAgAAQBAJ&dq=foo+bar+baz&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.de/books/about/DNS_and_BIND.html?hl=&id=u0GbAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "DE",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "DE",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.de/books/reader?id=u0GbAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "60 IN CNAME foo1.bar.baz. \u003cb\u003efoo\u003c/b\u003e.\u003cb\u003ebar\u003c/b\u003e.\u003cb\u003ebaz\u003c/b\u003e. 60 IN CNAME foo2.bar.baz. \u003cb\u003efoo\u003c/b\u003e.\u003cb\u003ebar\u003c/b\u003e.\u003cb\u003ebaz\u003c/b\u003e. \u003cbr\u003e\n60 IN CNAME foo3.bar.baz. This probably looks odd to those of you who are \u003cbr\u003e\nused to our harping on the evils of mixing anything with a CNAME record. But \u003cbr\u003e\nBIND&nbsp;..."
+   }
+  }
+ ]
+}
